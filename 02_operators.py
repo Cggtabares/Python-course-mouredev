@@ -29,7 +29,7 @@ print(3 != 4)
 print(3 > 4 == 2)
 
 print("Hola " > "Python") #ordenacion alfabetica
-print(len("aaaa") >= len(abaa)) #cuenta caracteres
+print(len("aaaa") >= len("abaa")) #cuenta caracteres
 print("Hola " < "Python")
 print("Hola " <= "Python")
 print("Hola " >= "Python")
